@@ -2,6 +2,13 @@
 /**
  * Plugin Name: Related
  * Description: Related posts. Solely based on taxonomies.
+ *
+ * Plugin URI: https://github.com/trendwerk/related
+ * 
+ * Author: Trendwerk
+ * Author URI: https://github.com/trendwerk
+ * 
+ * Version: 1.0.0
  */
 
 class TP_Related extends WP_Query {
