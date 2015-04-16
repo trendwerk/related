@@ -18,7 +18,9 @@ Or manually add it to your `composer.json`:
 
 ## Usage
 
-	$related = new TP_Related( $post_id, $args );
+```php
+$related = new TP_Related( $post_id, $args );
+```
 
 Use `$related` like any other custom WP_Query loop.
 
